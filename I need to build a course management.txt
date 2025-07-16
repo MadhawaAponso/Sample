@@ -1,0 +1,9 @@
+I need to build a course management system.
+these are the key functionalities of this
+1. Role based auth
+2. Students can see the lectures that they are having in each course with the time and date and place
+3. Students can see the upcoming assignments with deadlines. 
+4. For each lec there is a attendance marker where student can go and make their attendance there
+5. Only lectures can change the time and place of lec
+6. Only lec can edit the assigment deadlines and remove or add assignments
+This is the rough idea about the project. This can differ. But I need ER diagram for this. can you do that mentioning what are the entities we want. what kind of relation they have
